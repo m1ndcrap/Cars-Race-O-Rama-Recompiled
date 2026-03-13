@@ -18,6 +18,7 @@ longjmp_address = 0x825060F0
 0x820F3FB8 = {}
 0x820F08E8 = {}
 0x820B01F8 = {}
+0x82090810 = {}
 
 # generated
 0x821CEC08 = {}
@@ -2462,3 +2463,4 @@ longjmp_address = 0x825060F0
 0x8251248C = {}
 
 0x825124A4 = {}
+
