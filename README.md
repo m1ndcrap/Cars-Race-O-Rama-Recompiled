@@ -4,6 +4,7 @@ Recompilation of the Xbox 360 version of Cars Race O Rama with ReXGlue
 > NOTES:
 > This uses ReXGlue v0.3.
 > It is playable from start to finish but you may get slowdowns.
+> Also note that there are some graphical bugs, most glaring one being the bright lighting. May fix in a future build.
 > 
 Recompiled using the ReXGlue SDK:
 https://github.com/rexglue/rexglue-sdk
