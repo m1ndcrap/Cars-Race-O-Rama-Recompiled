@@ -1,10 +1,11 @@
-// carsror - ReXGlue Recompiled Project
+
+// cror_recharged - ReXGlue Recompiled Project
 //
 // This file is yours to edit. 'rexglue migrate' will NOT overwrite it.
 
-#include "generated/carsror_config.h"
-#include "generated/carsror_init.h"
+#include "generated/cror_recharged_config.h"
+#include "generated/cror_recharged_init.h"
 
-#include "carsror_app.h"
+#include "cror_recharged_app.h"
 
-REX_DEFINE_APP(carsror, CarsrorApp::Create)
+REX_DEFINE_APP(cror_recharged, CrorRechargedApp::Create)
